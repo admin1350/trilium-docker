@@ -1,4 +1,4 @@
-# trilium note on docker compose 
+# Trilium note on docker compose 
 
 ### `note.domain.com` указан как пример
 ### Up memos server note on docker
